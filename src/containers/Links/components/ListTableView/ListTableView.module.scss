@@ -1,0 +1,5 @@
+.actions {
+  :global(.btn) + :global(.btn) {
+    margin-left: 5px;
+  }
+}
