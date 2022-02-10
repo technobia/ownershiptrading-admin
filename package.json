@@ -94,7 +94,7 @@
     "gulp-autoprefixer": "~7.0.0",
     "gulp-sass": "~4.0.1",
     "gulp-sourcemaps": "~2.6.4",
-    "node-sass": "~4.12.0",
+    "node-sass": "~7.0.0",
     "npm-watch": "~0.6.0",
     "react-app-rewired": "^2.1.5",
     "serverless-s3bucket-sync": "^0.1.5"
