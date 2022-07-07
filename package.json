@@ -27,7 +27,7 @@
     "google-map-react": "~1.1.4",
     "ladda": "~2.0.1",
     "lodash": "^4.17.15",
-    "moment": "~2.24.0",
+    "moment": "~2.29.4",
     "nouislider-react": "~3.3.2",
     "numeral": "~2.0.6",
     "p-min-delay": "~3.1.0",
